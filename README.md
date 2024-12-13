@@ -44,7 +44,7 @@
 
 </p> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMiCo&layout=compact&hide=TSQL&theme=white" align="left" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMiCo&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400" align="right" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMiCo&layout=compact&hide=TSQL&theme=chartreuse-white" align="left" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMiCo&count_private=true&show_icons=true&&theme=chartreuse-white&include_all_commits=true" width="400" align="right" height="200"/>
 </div>
 
