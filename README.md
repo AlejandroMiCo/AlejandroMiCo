@@ -5,7 +5,7 @@
 
 <div>
   
-🌱 I'm a coding stundent from Spain.<br>
+🌱 I'm a coding student from Spain.<br>
 📚 My github has some of the code projects I am currently working on.<br>
 🔭 I’m currently working on a mobile game for my studies.
 
