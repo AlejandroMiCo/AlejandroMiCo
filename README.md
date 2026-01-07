@@ -38,7 +38,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 
 </div>
-
-<h1>Some github stats 😄</h1>
-
 </p> 
