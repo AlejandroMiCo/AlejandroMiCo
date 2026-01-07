@@ -5,9 +5,8 @@
 
 <div>
   
-🌱 I'm a coding student from Spain.<br>
-📚 My github has some of the code projects that I am currently working on.<br>
-🔭 I’m currently working on a mobile game for my studies.
+🌱 Junior developer.<br>
+🔧 Currently updating github :)
 
 </div>
 
@@ -43,8 +42,3 @@
 <h1>Some github stats 😄</h1>
 
 </p> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMiCo&layout=compact&hide=TSQL&theme=chartreuse-white" align="left" width="400" height="200"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroMiCo&count_private=false&show_icons=true&include_all_commits=true" width="400" align="right" height="200"/>
-</div>
-
